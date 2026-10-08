@@ -83,8 +83,8 @@ const AboutPage = () => {
                   alt="Andrew Donnelly"
                   src="/images/professional-headshot.png"
                   sx={{
-                    width: 200,
-                    height: 200,
+                    width: 300,
+                    height: 450,
                     mx: "auto",
                     border: `4px solid ${theme.palette.secondary.main}`,
                   }}
