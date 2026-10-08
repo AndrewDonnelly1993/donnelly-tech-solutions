@@ -71,8 +71,8 @@ Contributions are welcome! Feel free to open issues or pull requests to improve 
 
 ## Contact
 Andrew Donnelly
-Email: contact@donnellytech.com
-Phone: +353876072684
+Email: andrew.donnelly.1403@gmail.com
+Phone: +447345815239
 LinkedIn: linkedin.com/in/andrewdonnelly93
 
 ````
