@@ -23,7 +23,7 @@ export default function Footer() {
       </Typography>
       <Typography gutterBottom>All rights reserved.</Typography>
       <Typography>
-        📞 <strong>+353 87 607 26 84</strong> |{" "}
+        📞 <strong>+44 7345 815 239</strong> |{" "}
         <MuiLink
           href="mailto:andrew.donnelly.1403@gmail.com"
           sx={{
